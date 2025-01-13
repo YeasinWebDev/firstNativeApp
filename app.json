@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "native-setup-2",
-    "slug": "native-setup-2",
+    "name": "simple Meditation",
+    "slug": "Meditation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
